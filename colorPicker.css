@@ -1,0 +1,81 @@
+.header{
+	background-color: rgb(75, 120, 193);
+	text-align: center;
+	margin:0;
+	font-size: 160%;
+}
+h2{
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+}
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	background-color: #232323;
+}
+.navbar{
+	margin: 0 auto;
+	background-color: rgb(255,255,255);
+	overflow: auto;
+	padding-left:30%;
+	padding-right:30%;
+
+}
+#refresh:hover{
+	background-color: rgb(75, 120, 193);
+	color: white;
+}
+
+
+#n1{
+	width: 50%;
+	margin: 0px;
+	float: left;
+}
+.nav{
+	padding-right: 2%;
+	padding-left: 2%;
+	float: left;
+	color:rgb(75, 120, 193);
+	font-weight: bold; 
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+
+.navR{
+	width: 50%;
+	padding-left: 75%;
+	transition: all 0.3s;
+}
+
+.container{
+	width: 30%;
+	margin: 20px auto;
+	padding-bottom: 10%;
+}
+
+.box{
+	width: 30%;
+	margin: 1.66%;
+	border-radius: 15px;
+	padding-top: 30%;
+	float: left;
+	cursor: pointer;
+	transition: background 0.6s;
+}
+#hd{
+		background-color: rgb(75, 120, 193);
+	color: white;
+}
+#es:hover{
+	background-color: rgb(75, 120, 193);
+	color: white;
+}
+
