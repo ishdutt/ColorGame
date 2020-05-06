@@ -1,0 +1,18 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Color Picker Game",
+	"scope" : "/ColorGame/",
+	"display" : "browser",
+	"start_url" : "https://ishdutt.github.io/ColorGame/",
+	"short_name" : "Color Picker Ga",
+	"theme_color" : "transparent",
+	"description" : "",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [],
+	"url" : "https://ishdutt.github.io/ColorGame/",
+	"generated" : "true"
+}
